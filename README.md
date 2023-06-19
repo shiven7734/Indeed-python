@@ -15,6 +15,7 @@ Implementing a feature that allows users to draw shapes and text on the screen r
 
 To tackle this challenge, I utilized openCV's event handling functions to capture user inputs, such as mouse clicks or movements. I then used these inputs to dynamically draw shapes or text on the screen. This involved tracking the user's input coordinates, detecting relevant events, and updating the screen accordingly.
 
+![osp1](https://github.com/shiven7734/Indeed-python/assets/89990691/6ddee597-8ffd-42c1-a5e0-bee48cc3bcdd)
 
 Creating a user-friendly and visually appealing user interface (UI) in openCV can be challenging due to its limitations compared to dedicated UI frameworks. OpenCV primarily focuses on computer vision tasks rather than UI design.
 
