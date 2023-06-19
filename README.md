@@ -1,12 +1,9 @@
 
 
 # Indeed
-During the development of Indeed, I encountered several challenges that required careful consideration and problem-solving. 
+This helps the people to write and express their thoughts who are not that well abled and special people.
 
-
-One of the challenges was dealing with different scenarios and conditions when using the openCV library. This involved managing various input sources, such as video streams from cameras, image processing techniques, and integrating them with other functionalities of Helpy.
-
-To overcome this challenge, I implemented robust condition handling using if-else statements, switch cases, or other control flow mechanisms to manage different scenarios effectively. Additionally, I leveraged the flexibility of openCV's extensive documentation and community support to find solutions to specific conditions.
+ I implemented robust condition handling using if-else statements, switch cases, or other control flow mechanisms to manage different scenarios effectively. Additionally, I leveraged the flexibility of openCV's extensive documentation and community support to find solutions to specific conditions.
 
 
 Rendering various types of images, including shapes, text, and freehand drawings, on the screen or video posed a challenge. Each image type required different techniques for creation and display.
